@@ -1,0 +1,5 @@
+asyncio
+aiohttp
+requests
+docx2pdf
+termcolor
